@@ -5,7 +5,7 @@ This project is a menu-driven ATM application developed using Python.
 It simulates basic ATM operations such as Deposit, Withdraw, and Balance Enquiry with proper exception handling and modular programming.
 
 The project is designed to demonstrate core Python concepts including functions, custom exceptions, control flow, and modules.
-
+ 
 🛠️ Technologies Used
 
 Python
